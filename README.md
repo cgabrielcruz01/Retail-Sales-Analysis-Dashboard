@@ -9,78 +9,27 @@ Dataset
 Source: Retail Analysis Large Dataset (Kaggle)
 Dataset Link: https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset/data
 
-The dataset includes:
-Customer demographics
-Product categories
-Transaction details
-Purchase quantities
-Sales amounts
-Geographic information
-Transaction dates
+The dataset includes customer demographics, product categories, transaction details, purchase quantities, sales amounts, geographic information, transaction dates.
 
-Project Objectives
+Project Objectives: Analyze overall sales performance, understand customer purchasing behavior, identify high-performing product categories, examine demographic purchasing patterns, track sales trends over time, compare regional sales performance, develop meaningful KPIs for business decision-making.
 
-The goal of this project was to:
-Analyze overall sales performance
-Understand customer purchasing behavior
-Identify high-performing product categories
-Examine demographic purchasing patterns
-Track sales trends over time
-Compare regional sales performance
-Develop meaningful KPIs for business decision-making
-
-Tools used:
-Power BI
-Power Query
-DAX
-Data Modeling
+Tools Used: Power BI, power query, DAX, data modeling.
 
 Data Preparation
 
-The dataset was cleaned and transformed using Power Query by:
-Handling missing and inconsistent values
-Formatting data types
-Creating relationships between tables
-Preparing fields for analysis and visualization
-Key Performance Indicators (KPIs)
+The dataset was cleaned and transformed using Power Query by handling missing and inconsistent values, formatting data types, creating relationships between tables, preparing fields for analysis and visualization.
 
-The dashboard includes several business metrics, including:
-Total Sales
-Total Transactions
-Total Customers
-Average Order Value (AOV)
-Customer Purchase Frequency
-Sales by Product Category
-Sales by Region
+The dashboard includes several business metrics, such as total sales, total transactions, total customers, Average Order Value (AOV), customer purchase frequency, sales by product category, sales by region.
 
-Sales Analysis:
-Monthly sales trends
-Revenue performance tracking
-Product category comparisons
-Geographic sales breakdowns
+Sales Analysis: Monthly sales trends, revenue performance tracking, product category comparisons, geographic sales breakdowns.
 
-Customer Analysis:
-Customer demographics
-Purchase frequency analysis
-Spending behavior insights
-Customer segmentation
+Customer Analysis: Customer demographics, purchase frequency analysis, spending behavior insights, customer segmentation.
 
-Product Performance:
-Best-selling categories
-Revenue contribution by category
-Product purchasing patterns
+Product Performance: Best-selling categories, revenue contribution by category, product purchasing patterns.
 
-Geographic Analysis:
-Regional sales comparisons
-Location-based performance insights
-Interactive filtering by region
+Geographic Analysis: Regional sales comparisons, location-based performance insights, interactive filtering by region.
 
-Key Insights:
-Sales performance varies significantly across product categories.
-Certain customer segments generate a disproportionate share of revenue.
-Seasonal trends influence purchasing activity.
-Regional differences highlight opportunities for targeted marketing strategies.
-Higher purchase frequency is associated with increased customer lifetime value.
+Key Insights: Sales performance varies significantly across product categories, certain customer segments generate a disproportionate share of revenue, seasonal trends influence purchasing activity, regional differences highlight opportunities for targeted marketing strategies, higher purchase frequency is associated with increased customer lifetime value.
 
 Dashboard Preview
 <img width="1320" height="760" alt="Screenshot" src="https://github.com/user-attachments/assets/1de7ec1c-aeaf-43f9-a94e-4705ec5f9daa" />
