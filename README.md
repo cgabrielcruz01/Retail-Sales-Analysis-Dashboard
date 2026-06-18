@@ -31,5 +31,9 @@ Geographic Analysis: Regional sales comparisons, location-based performance insi
 
 Key Insights: Sales performance varies significantly across product categories, certain customer segments generate a disproportionate share of revenue, seasonal trends influence purchasing activity, regional differences highlight opportunities for targeted marketing strategies, higher purchase frequency is associated with increased customer lifetime value.
 
+## Project Repository
+
+[View Project on GitHub](https://github.com/cgabrielcruz01/Retail-Sales-Analysis-Dashboard)
+
 Dashboard Preview
 <img width="1320" height="760" alt="Screenshot" src="https://github.com/user-attachments/assets/1de7ec1c-aeaf-43f9-a94e-4705ec5f9daa" />
